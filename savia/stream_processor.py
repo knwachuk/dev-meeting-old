@@ -1,0 +1,2 @@
+class StreamProcess(object):
+    pass
